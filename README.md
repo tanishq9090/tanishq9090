@@ -47,7 +47,7 @@
 
 <br/>
 
-## 🚀 My Goals for 2024:
+## 🚀 My Goals for 2025:
 
 - ✨ **Enhance My Coding Skills:** By building real-world projects 🛠️  
 - 🧠 **Master Data Structures and Algorithms:** To ace coding challenges and competitions 💡  
